@@ -12,7 +12,7 @@ Icons, banners and presentation images for the Lethal Company mods published by 
 | `creatures/` | Lethargique Creatures icon, banner and family headers |
 
 **Linking an image** (Thunderstore README, for example):
-`https://raw.githubusercontent.com/<owner>/<repository>/main/creatures/banner.png`
+`https://raw.githubusercontent.com/Worrn/LethargiqueCompany-Media/main/creatures/banner.png`
 
 File names are kept stable once published; a new design gets a new file name instead of replacing the old one.
 
